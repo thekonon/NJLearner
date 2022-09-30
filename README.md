@@ -1,4 +1,8 @@
 # NJLearner
-Just a attempt to get know with git  gitHub
+An Matlab app used for learning German as Czech.
 
-Just a edit
+## Words 
+Words are stored in Words.xlsx excel. 
+
+## Features to add:
+-more user options
