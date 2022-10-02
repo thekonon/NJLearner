@@ -1,0 +1,13 @@
+___________________________________
+----------Zapínám startup----------
+___________________________________
+---Vyber projekt nebo nový založ---
+Warning: Executing startup failed in matlabrc.
+This indicates a potentially serious problem in your MATLAB setup, which should be resolved as soon as possible.  Error detected was:
+MATLAB:run:CannotExecute
+RUN cannot execute the file 'D:\Dokumenty\ExVileEs-D\škola\Vejška\ControlApp\ControlApp_exported.m'. RUN requires a valid MATLAB script
+
+file_name =
+
+    'Words.xlsx'
+
