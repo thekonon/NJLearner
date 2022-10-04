@@ -1,5 +1,7 @@
 # NJLearner
-An Matlab app used for learning German as Czech.
+- An Matlab app used for learning German as Czech.
+- App si running on StateFlow core
+ 
 
 ## Words 
 Words are stored in Words.xlsx excel. 
