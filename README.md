@@ -8,3 +8,7 @@ Words are stored in Words.xlsx excel.
 
 ## Features to add:
 - more user options
+
+
+## To fix
+- limit maximum wanted words - throws error
